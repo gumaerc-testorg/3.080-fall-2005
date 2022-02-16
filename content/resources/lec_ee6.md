@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains notes for inflation, CPI and PPI etc.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-080-economic-environmental-issues-in-materials-selection-fall-2005/d6befc6af283fd68ef5a1056b74aedbd_lec_ee6.pdf
+file: /media/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/d6befc6af283fd68ef5a1056b74aedbd_lec_ee6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec_ee6.pdf
 uid: d6befc6a-f283-fd68-ef5a-1056b74aedbd
