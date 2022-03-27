@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 984426f8-de30-863f-3760-89b2a75e1a20
 resourcetype: Other
 title: MIT_MSL_pizzamodel.xls
 uid: 2bb744ce-e52e-62d4-03d5-eae78b2b0689

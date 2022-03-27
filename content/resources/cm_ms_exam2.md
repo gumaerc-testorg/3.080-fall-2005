@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2ebde42e-64ca-9eef-5923-e0db39bcacb7
 resourcetype: Document
 title: cm_ms_exam2.pdf
 uid: d6b009b8-6410-c0cb-f269-91c56008662a

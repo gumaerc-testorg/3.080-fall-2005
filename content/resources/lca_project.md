@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: fda31f21-c008-f637-674a-f891c303efd7
 resourcetype: Document
 title: lca_project.pdf
 uid: 142c1197-7175-5c42-84d9-ac56d5cf5bf7

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 098e5c47-8034-35e9-5c31-b68f1c17d7aa
 resourcetype: Other
 title: cm_inject.xls
 uid: a6f60ada-52d2-09a1-ea25-f9c536db7731
