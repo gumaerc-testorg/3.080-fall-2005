@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/1a9449dfcc9ce94cb181383b2f22b437_lc1.pdf
+file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/1a9449dfcc9ce94cb181383b2f22b437_lc1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

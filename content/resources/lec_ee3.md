@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/88145954492562536a64dc1ffb754fca_lec_ee3.pdf
+file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/88145954492562536a64dc1ffb754fca_lec_ee3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
