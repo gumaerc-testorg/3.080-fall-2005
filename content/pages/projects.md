@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -11,10 +12,10 @@ Students complete a project at the close of each of the four class segments. Eac
 
 Following are detailed descriptions of the project assignments:
 
-Engineering Economics Project ([PDF]({{< baseurl >}}/resources/ee_project))
+Engineering Economics Project ({{% resource_link ca3a6ea2-f7f1-c052-e168-8e1c39e645d0 "PDF" %}})
 
-Materials Selection Project ([PDF]({{< baseurl >}}/resources/ms_project))
+Materials Selection Project ({{% resource_link 5087624b-fa21-80cb-0401-1611dd42d50d "PDF" %}})
 
-Cost Modeling Project ([PDF]({{< baseurl >}}/resources/cm_project))
+Cost Modeling Project ({{% resource_link 07e1e268-3569-d620-d709-fd7544251d31 "PDF" %}})
 
-Life Cycle Assessment Project ([PDF]({{< baseurl >}}/resources/lca_project))
+Life Cycle Assessment Project ({{% resource_link 142c1197-7175-5c42-84d9-ac56d5cf5bf7 "PDF" %}})

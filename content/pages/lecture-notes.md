@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lecture notes contains class notes which correspond to the topics covered
+  in the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -28,7 +30,7 @@ SUPPLEMENTAL FILES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/lec_intro))
+Introduction ({{% resource_link 572bf5e2-ff7a-4125-a254-9bbdd9385952 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -46,7 +48,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/lec_intro))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction, Time Value of Money, Single Payment Discounting ([PDF]({{< baseurl >}}/resources/lec_ee1))
+Introduction, Time Value of Money, Single Payment Discounting ({{% resource_link 1045753c-da50-3c44-fb82-7ef76cfdd4db "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -58,7 +60,7 @@ Introduction, Time Value of Money, Single Payment Discounting ([PDF]({{< baseurl
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Value, Multi-payment Discounting, Non-uniform Cash Flows ([PDF]({{< baseurl >}}/resources/lec_ee2))
+Value, Multi-payment Discounting, Non-uniform Cash Flows ({{% resource_link 05a88519-2e6b-b477-8326-bee3f8074390 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -70,7 +72,7 @@ Value, Multi-payment Discounting, Non-uniform Cash Flows ([PDF]({{< baseurl >}}/
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Effective Interest Rates ([PDF]({{< baseurl >}}/resources/lec_ee3))  
+Effective Interest Rates ({{% resource_link 88145954-4925-6253-6a64-dc1ffb754fca "PDF" %}})  
   
 Evaluating Alternatives, MARR, PW, AW, IRR
 {{< tdclose >}}
@@ -96,7 +98,7 @@ Uncertainty
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Comparing Alternatives ([PDF]({{< baseurl >}}/resources/lec_ee5))
+Comparing Alternatives ({{% resource_link de35bafe-615a-0275-1761-fc474774c73a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -108,7 +110,7 @@ Comparing Alternatives ([PDF]({{< baseurl >}}/resources/lec_ee5))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Dealing with Changing Prices ([PDF]({{< baseurl >}}/resources/lec_ee6))
+Dealing with Changing Prices ({{% resource_link d6befc6a-f283-fd68-ef5a-1056b74aedbd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -120,10 +122,10 @@ Dealing with Changing Prices ([PDF]({{< baseurl >}}/resources/lec_ee6))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Combining Concepts ([PDF]({{< baseurl >}}/resources/lec_ee7datatable))
+Combining Concepts ({{% resource_link a76e74ba-db83-e810-81d0-f44e2d1638f9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Class Examples ([XLS]({{< baseurl >}}/resources/lec_ee7examples))
+Class Examples ({{% resource_link 8d8d40c3-0b00-18b3-9c8b-ca4a0809c2b6 "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +164,7 @@ Exam 1
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Concepts of Materials Indices, Software Introduction (Guest lecturer: Jeremy Gregory) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB]({{< baseurl >}}/resources/lec_ms1))
+Concepts of Materials Indices, Software Introduction (Guest lecturer: Jeremy Gregory) ({{% resource_link bbc588d0-6a5d-caf0-a3e1-56e2108a69ce "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -174,7 +176,7 @@ Concepts of Materials Indices, Software Introduction (Guest lecturer: Jeremy Gre
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Material and Shape Selection (Guest lecturer: Jeremy Gregory) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec_ms2))
+Material and Shape Selection (Guest lecturer: Jeremy Gregory) ({{% resource_link 0a9684aa-33bd-abd2-05be-6eb0635d6dcf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -186,7 +188,7 @@ Material and Shape Selection (Guest lecturer: Jeremy Gregory) (![This resource 
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Process Selection, In-class Examples (Guest lecturer: Jeremy Gregory) ([PDF]({{< baseurl >}}/resources/lec_ms3))
+Process Selection, In-class Examples (Guest lecturer: Jeremy Gregory) ({{% resource_link efbdba88-0ecc-cda7-75ec-bc486ac71291 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -216,7 +218,7 @@ Presentations and Review
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Using Cost Models: Concepts and Principles ([PDF]({{< baseurl >}}/resources/lec_cm1))
+Using Cost Models: Concepts and Principles ({{% resource_link 42e50569-8ce4-cf81-ecf1-6e2164f015fe "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -228,10 +230,10 @@ Using Cost Models: Concepts and Principles ([PDF]({{< baseurl >}}/resources/lec_
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Tackling Variable Costs ([PDF]({{< baseurl >}}/resources/lec_cm2_3))
+Tackling Variable Costs ({{% resource_link 0c6b5bd7-e357-b09b-e8d8-f7f49f6a6ad2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Pizza Model ([XLS]({{< baseurl >}}/resources/mit_msl_pizzamodel))
+Pizza Model ({{% resource_link 2bb744ce-e52e-62d4-03d5-eae78b2b0689 "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,10 +242,10 @@ Pizza Model ([XLS]({{< baseurl >}}/resources/mit_msl_pizzamodel))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Modeling Fixed Costs ([PDF]({{< baseurl >}}/resources/lec_cm2_3))
+Modeling Fixed Costs ({{% resource_link 0c6b5bd7-e357-b09b-e8d8-f7f49f6a6ad2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Pizza Model ([XLS]({{< baseurl >}}/resources/mit_msl_pizzamodel))
+Pizza Model ({{% resource_link 2bb744ce-e52e-62d4-03d5-eae78b2b0689 "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +284,7 @@ Exam 2
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction: What is the Cost of Materials Usage? ([PDF]({{< baseurl >}}/resources/lec_lca1))
+Introduction: What is the Cost of Materials Usage? ({{% resource_link 698f7c31-f746-568f-cdf2-720e3ea2eeb9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -294,7 +296,7 @@ Introduction: What is the Cost of Materials Usage? ([PDF]({{< baseurl >}}/resour
 21
 {{< tdclose >}}
 {{< tdopen >}}
-An Overview of Life Cycle Assessment ([PDF]({{< baseurl >}}/resources/lec_lca2))
+An Overview of Life Cycle Assessment ({{% resource_link 7d275969-c721-2226-6552-6c0d5991125f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -306,7 +308,7 @@ An Overview of Life Cycle Assessment ([PDF]({{< baseurl >}}/resources/lec_lca2))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Analysis Goal and Scope; Inventory Methods ([PDF]({{< baseurl >}}/resources/lec_lca3))
+Analysis Goal and Scope; Inventory Methods ({{% resource_link 903a23ea-e048-8613-0593-ba75ac37c3a3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -318,7 +320,7 @@ Analysis Goal and Scope; Inventory Methods ([PDF]({{< baseurl >}}/resources/lec_
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Impact Assessment ([PDF]({{< baseurl >}}/resources/lec_lca4))
+Impact Assessment ({{% resource_link 866829c1-626b-5a79-5267-bd3ba183868a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
