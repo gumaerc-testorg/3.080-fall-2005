@@ -4,6 +4,7 @@ description: 'This resource discusses about environmental
 
   consequence, and inventory information which is to be aggregated into fewer metrics.'
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/866829c1626b5a795267bd3ba183868a_lec_lca4.pdf
+file_size: 96864
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
