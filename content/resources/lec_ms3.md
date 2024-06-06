@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains a brief overview of a systematic methodology process
   selection.
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/efbdba880ecccda775ecbc486ac71291_lec_ms3.pdf
+file_size: 688036
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

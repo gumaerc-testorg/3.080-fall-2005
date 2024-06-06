@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains notes for value, cash flow equivalence, discount rate
   approximation, finite series of equal payments etc.
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/05a885192e6bb4778326bee3f8074390_lec_ee2.pdf
+file_size: 159863
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
