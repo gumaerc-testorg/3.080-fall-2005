@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource discusses about intent: intended application of the study,
   context: for whom and compared to what, and scope of analysis.'
-file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/903a23eae04886130593ba75ac37c3a3_lec_lca3.pdf
+file: /ol-ocw-studio-app/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/903a23eae04886130593ba75ac37c3a3_lec_lca3.pdf
 file_size: 78424
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for comparing alternatives, engineering economics,
   single payment examples etc.
-file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/1045753cda503c44fb827ef76cfdd4db_lec_ee1.pdf
+file: /ol-ocw-studio-app/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/1045753cda503c44fb827ef76cfdd4db_lec_ee1.pdf
 file_size: 322507
 file_type: application/pdf
 learning_resource_types:
