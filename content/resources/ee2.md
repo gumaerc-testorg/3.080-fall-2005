@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains assignments questions list taken from the required
   reading.
-file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/14f44f88e35fd02f7f080f577bb39902_ee2.pdf
+file: /ol-ocw-studio-app/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/14f44f88e35fd02f7f080f577bb39902_ee2.pdf
 file_size: 27759
 file_type: application/pdf
 learning_resource_types:

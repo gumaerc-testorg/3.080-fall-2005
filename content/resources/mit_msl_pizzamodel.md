@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the sheet for pizza model.
-file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/2bb744cee52e62d403d5eae78b2b0689_MIT_MSL_pizzamodel.xls
+file: /ol-ocw-studio-app/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/2bb744cee52e62d403d5eae78b2b0689_MIT_MSL_pizzamodel.xls
 file_size: 113664
 file_type: application/msword
 learning_resource_types:
