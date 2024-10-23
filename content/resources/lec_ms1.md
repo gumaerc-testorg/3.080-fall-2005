@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for approach changes as design, What parameters
   define material selection?, translation, property chart etc.
-file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/bbc588d06a5dcaf0a3e156e2108a69ce_lec_ms1.pdf
+file: /ol-ocw-studio-app/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/bbc588d06a5dcaf0a3e156e2108a69ce_lec_ms1.pdf
 file_size: 1527573
 file_type: application/pdf
 learning_resource_types:
