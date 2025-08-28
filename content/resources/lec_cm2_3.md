@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file contains notes for engineering common relevant cost elements,
   engineering diagramming flows example: stamping catalog, cost modeling challenge
   etc.'
-file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/0c6b5bd7e357b09be8d8f7f49f6a6ad2_lec_cm2_3.pdf
+file: /ol-ocw-studio-app/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/0c6b5bd7e357b09be8d8f7f49f6a6ad2_lec_cm2_3.pdf
 file_size: 480805
 file_type: application/pdf
 learning_resource_types:

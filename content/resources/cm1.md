@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains assignment questions on cost modeling.
-file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/d82518940ef35ebf1964571f3e6e9d1b_cm1.pdf
+file: /ol-ocw-studio-app/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/d82518940ef35ebf1964571f3e6e9d1b_cm1.pdf
 file_size: 18948
 file_type: application/pdf
 learning_resource_types:
