@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about data tables.
-file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/a76e74badb83e81081d0f44e2d1638f9_lec_ee7datatable.pdf
+file: /ol-ocw-studio-app/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/a76e74badb83e81081d0f44e2d1638f9_lec_ee7datatable.pdf
 file_size: 81578
 file_type: application/pdf
 learning_resource_types:

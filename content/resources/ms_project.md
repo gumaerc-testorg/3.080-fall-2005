@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains overview of the materials selection class project.
-file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/5087624bfa2180cb04011611dd42d50d_ms_project.pdf
+file: /ol-ocw-studio-app/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/5087624bfa2180cb04011611dd42d50d_ms_project.pdf
 file_size: 152262
 file_type: application/pdf
 learning_resource_types:

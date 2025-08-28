@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/8d8d40c30b0018b39c8bca4a0809c2b6_lec_ee7examples.xls
+file: /ol-ocw-studio-app/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/8d8d40c30b0018b39c8bca4a0809c2b6_lec_ee7examples.xls
 file_size: 40960
 file_type: application/msword
 learning_resource_types:
